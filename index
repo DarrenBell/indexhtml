@@ -1,0 +1,25 @@
+<!-- Doctype HTML5 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Set character encoding for the document -->
+	<meta charset="UTF-8">
+	<!-- Viewport for responsive web design -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<!-- Instruct Internet Explorer to use its latest rendering engine -->
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<!-- Meta Description -->
+	<meta name="description" content="Description of the page less than 150 characters">
+	<!-- Favicon -->
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<title>Document</title>
+	<!-- CSS Stylesheet -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+
+	<!-- JavaScript -->
+	<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
